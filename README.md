@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jtrouve.com/vodi" target="_blank">
-    <img src="./vodi.png" alt="Vodi Streaming – site officiel de Vodi.com" style="width:70%; max-width:400px; height:auto;">
+    <img src="./vodi.jpg" alt="Vodi Streaming – site officiel de Vodi.com" style="width:70%; max-width:400px; height:auto;">
   </a>
 </p>
 
