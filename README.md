@@ -13,7 +13,7 @@
 <p align="center">
   Nouvelle adresse officielle <strong>Vodi.com</strong>.<br>
   Accédez à vos films et séries gratuitement en streaming avec <strong>Vodi Streaming</strong>.<br>
-  <a href="https://jtrouve.com/vodi" target="_blank"><strong>👉 VODI STREAMING</strong></a>
+  <a href="https://jtrouve.com/vodi" target="_blank"><strong>[ici]👉 VODI STREAMING</strong></a>
 </p>
 
 <p align="center">
